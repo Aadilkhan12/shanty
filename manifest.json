@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Shanty ",
+  "version": "1.0.0",
+  "description": "your chrome home",
+  "action": {
+    "default_icon": "/Images/shanty.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
